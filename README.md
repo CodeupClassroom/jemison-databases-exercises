@@ -1,0 +1,1 @@
+# Jemison Database Exercises with MySQL
